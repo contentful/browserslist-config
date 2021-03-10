@@ -1,6 +1,6 @@
 module.exports = [
-  "Chrome >= 75",
-  "Edge >= 17",
-  "Firefox >= 70",
-  "Safari >= 12",
+  "Chrome >= 80",
+  "Edge >= 80",
+  "Firefox >= 75",
+  "Safari >= 13",
 ];
