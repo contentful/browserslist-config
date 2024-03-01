@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: System
+kind: Component
 metadata:
   name: browserslist-config 
   description: A sharable config for browserslist
@@ -7,7 +7,9 @@ metadata:
     github.com/project-slug: contentful/browserslist-config 
 
   tags:
+    - chapter-frontend
     - sast-disabled
 spec:
   type: library 
   owner: group:chapter-frontend
+  lifecycle: production
