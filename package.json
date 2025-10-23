@@ -2,5 +2,9 @@
   "name": "@contentful/browserslist-config",
   "version": "5.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
