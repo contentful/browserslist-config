@@ -1,6 +1,7 @@
 module.exports = [
-  "Chrome >= 140",
-  "Edge >= 140",
-  "Firefox >= 143",
-  "Safari >= 18",
+  "last 2 Chrome major versions",
+  "last 2 Edge major versions",
+  "last 2 Firefox major versions",
+  "last 2 Safari major versions",
+  "last 2 Opera major versions"
 ];
