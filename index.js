@@ -4,9 +4,9 @@
  */
 
 module.exports = [
-  "Chrome >= 143",
-  "Edge >= 143",
-  "Firefox >= 143",
-  "Safari >= 18",
-  "Opera >= 124",
+  "Chrome >= 153",
+  "Edge >= 151",
+  "Firefox >= 155",
+  "Safari >= 26",
+  "Opera >= 134",
 ];
